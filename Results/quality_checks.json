@@ -1,0 +1,25 @@
+{
+  "raw_trials": 35670,
+  "raw_participants": 1125,
+  "tasks": [
+    "art",
+    "census",
+    "cities",
+    "dermatology",
+    "sarcasm"
+  ],
+  "analysis_trials": 34711,
+  "analysis_participants": 1125,
+  "excluded_midpoint_trials": 959,
+  "midpoint_pre": 458,
+  "midpoint_post": 681,
+  "missing_required": 0,
+  "duplicate_trial_keys": 0,
+  "raw_sha256": "be9223b6bf34f996cdace9b1c0d43876df0e480bcb9322e6a7f774de0f2f0eed",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "bootstrap_replicates": 2000,
+  "seed": 20261105
+}
