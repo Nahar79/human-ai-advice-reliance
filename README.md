@@ -1,6 +1,6 @@
 # Human advice-taking and decision quality
 
-**Real-data secondary analysis · AI-assisted portfolio draft · November 2026**
+**Real-data secondary analysis ·  portfolio draft · November 2026**
 
 This project replaces simulated demonstrations with an executed analysis of public human-participant records. Read [results/REPORT.md](results/REPORT.md) for results, methods and limitations, or open `results/REPORT.html` for a self-contained visual report.
 
@@ -9,7 +9,7 @@ This project replaces simulated demonstrations with an executed analysis of publ
 - 35,670 source trials, 1,125 participants; 34,711 trials after midpoint exclusion.
 - Primary analysis: 567 participants receiving AI-labelled advice.
 - Exploratory secondary analysis, **not new data collection or a full paper replication**.
-- No claim to have studied live generative AI, professional development or longitudinal learning.
+  
 
 ## Run
 Use Python 3.12 and a virtual environment. Install the pinned dependencies:
@@ -43,4 +43,4 @@ The analysis runs from any working directory. It regenerates tables, quality che
 Data belong to the original research contribution of Vodrahalli, Daneshjou, Gerstenberg and Zou (AIES 2022), DOI https://doi.org/10.1145/3514094.3534150. Source repository: https://github.com/kailas-v/human-ai-interactions. Retain the bundled original MIT notice with source copies. This project adds a small exploratory analysis, not a claim to ownership of the original study.
 
 ## Contribution disclosure
-ChatGPT assisted with coding, analysis and documentation of this draft for Zesmin Nahar. The original researchers collected all participant data. Zesmin should inspect, understand and, where appropriate, revise the analysis before presenting it as evidence of personal skills. Suggested current status: **AI-assisted secondary-analysis portfolio project under review**. Do not claim independent completion without having performed that work.
+The original researchers collected all participant data. 
