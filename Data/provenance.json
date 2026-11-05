@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/kailas-v/human-ai-interactions",
+  "commit": "24881cc7586180a9c9742a7dd838aea97d008235",
+  "download_url": "https://raw.githubusercontent.com/kailas-v/human-ai-interactions/24881cc7586180a9c9742a7dd838aea97d008235/haiid_dataset.csv",
+  "sha256": "be9223b6bf34f996cdace9b1c0d43876df0e480bcb9322e6a7f774de0f2f0eed",
+  "accessed": "2026-11-05",
+  "original_authors": [
+    "Kailas Vodrahalli",
+    "Roxana Daneshjou",
+    "Tobias Gerstenberg",
+    "James Zou"
+  ],
+  "paper_doi": "10.1145/3514094.3534150",
+  "paper_url": "https://arxiv.org/abs/2107.07015",
+  "repository_license": "MIT; original notice retained in data/raw/SOURCE_LICENSE.txt",
+  "scope": "Exploratory secondary analysis of existing real participant records. No new human data collected."
+}
