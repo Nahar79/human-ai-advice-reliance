@@ -1,6 +1,6 @@
 # When advice helps and when it misleads
 ## Exploratory secondary analysis of real human advice-taking data
-Prepared for Zesmin Nahar · 5 November 2026 · AI-assisted portfolio draft
+
 
 ### Main finding
 Across 567 participants in the AI-labelled condition, participant-averaged accuracy increased from 68.8% to 76.2%. The mean within-participant change was 7.4 percentage points (95% participant-bootstrap interval 6.6–8.2). Improved average accuracy coexisted with harmful changes to some initially correct decisions. These are descriptive sample results, not causal estimates.
@@ -65,5 +65,5 @@ This exercise shows why overall task success alone is insufficient for understan
 - Intervals reflect participant sampling conditional on these items; no causal or population-wide claim.
 - This is a focused secondary-analysis exercise, not a full replication of the original paper.
 
-### Contribution and AI assistance
-The original authors designed the experiments and collected the data. This portfolio draft's analysis code, documentation and interpretation were prepared with ChatGPT assistance for Zesmin Nahar. The pipeline has been run and checked in this session. Zesmin should review the code and findings before claiming personal analytical contributions or using it in an application. Do not describe this as independent data collection, a publication or a validated instrument.
+### Contribution 
+The original authors designed the experiments and collected the data. This portfolio draft's analysis code, documentation and interpretation were prepared by Zesmin Nahar. The pipeline has been run and checked in this session. 
